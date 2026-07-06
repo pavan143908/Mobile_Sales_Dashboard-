@@ -34,7 +34,7 @@ This report uses a star-schema data model (`FactSales` fact table linked to `Dim
 4. Explore via slicers and cross-filtering on each page
 
 ## Screenshots
-<img width="1132" height="639" alt="Screenshot 2026-07-06 073734" src="https://github.com/user-attachments/assets/c99b87a6-c042-408d-882f-12792ccd5d99" />
+<img width="811" height="464" alt="Screenshot 2026-07-06 073734" src="https://github.com/user-attachments/assets/c99b87a6-c042-408d-882f-12792ccd5d99" />
 
 <img width="811" height="464" alt="Screenshot 2026-07-06 073539" src="https://github.com/user-attachments/assets/20c0f5b1-f4d5-45c2-b28f-06057924f228" />
 
